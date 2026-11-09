@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\eoino\OneDrive\Documents\Comp Sci\Week2-Methods.csproj" Link="Week2-Methods.csproj" />
+  </ItemGroup>
+
 </Project>
